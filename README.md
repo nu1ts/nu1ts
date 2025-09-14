@@ -36,7 +36,7 @@ I am currently a third-year student at the Higher IT School of Tomsk State Unive
 
 ---
 
-<h3 align="left">📂 My Projects and Organizations</h3>
+<h3 align="left">🔗 Also you can find my projects here</h3>
 <p align="left">
 <a href="https://github.com/nu1ts-starterhub">nu1ts-starterhub</a> – an organization with multiple starter kits for different technologies.<br/>
 <a href="https://github.com/tsu-eventhub">tsu-eventhub</a> – an organization for TSU EventHub, a system for managing TSU events.<br/>
