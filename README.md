@@ -38,9 +38,9 @@ I am currently a third-year student at the Higher IT School of Tomsk State Unive
 
 <h3 align="left">🔗 Also you can find my projects here</h3>
 <p align="left">
-<a href="https://github.com/nu1ts-starterhub">nu1ts-starterhub</a> – an organization with multiple starter kits for different technologies.<br/>
-<a href="https://github.com/tsu-eventhub">tsu-eventhub</a> – an organization for TSU EventHub, a system for managing TSU events.<br/>
-<a href="https://github.com/nut1s-vibematch">nut1s-vibematch</a> – an organization for VibeMatch, a cross-platform app that connects people through their music taste.
+<a href="https://github.com/nu1ts-starterhub">nu1ts-starterhub</a> – multiple starter kits for different technologies.<br/>
+<a href="https://github.com/tsu-eventhub">tsu-eventhub</a> – TSU EventHub, a system for managing TSU events.<br/>
+<a href="https://github.com/nut1s-vibematch">nut1s-vibematch</a> – VibeMatch, a cross-platform app that connects people through their music taste.
 </p>
 
 ---
